@@ -13,18 +13,14 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeDriverService;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
-
-
 import com.utilities.PropertiesOperation;
-
+import org.testng.annotations.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
  
 public class BaseClass {
 	
-	 public static  WebDriver driver;
+	public static  WebDriver driver;
 	public static Properties prop = new Properties();
 	public static FileReader fr;
 	
