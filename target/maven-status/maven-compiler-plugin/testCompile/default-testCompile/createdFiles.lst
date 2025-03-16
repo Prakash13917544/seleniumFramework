@@ -1,4 +1,6 @@
+com\tests\LogoutTest.class
 com\pagesobjects\HomePageAdminSearchRecordsOjects.class
 com\tests\LoginPage.class
+com\pagesobjects\LogoutPage.class
 com\tests\HomePage_Admin_SearchRecords.class
 com\pagesobjects\LoginPageObjects.class

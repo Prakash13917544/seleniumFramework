@@ -2,24 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-16T15:22:16 IST" name="Default suite" finished-at="2025-03-16T15:22:45 IST" duration-ms="29573">
+  <suite started-at="2025-03-16T16:19:34 IST" name="Default suite" finished-at="2025-03-16T16:20:07 IST" duration-ms="33311">
     <groups>
     </groups>
-    <test started-at="2025-03-16T15:22:16 IST" name="Default test" finished-at="2025-03-16T15:22:45 IST" duration-ms="29573">
+    <test started-at="2025-03-16T16:19:34 IST" name="Default test" finished-at="2025-03-16T16:20:07 IST" duration-ms="33311">
       <class name="com.tests.LoginPage">
-        <test-method is-config="true" signature="init()[pri:0, instance:com.tests.LoginPage@2898ac89]" started-at="2025-03-16T15:22:16 IST" name="init" finished-at="2025-03-16T15:22:16 IST" duration-ms="860" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.tests.LoginPage@6ff29830]" started-at="2025-03-16T16:19:34 IST" name="init" finished-at="2025-03-16T16:19:34 IST" duration-ms="906" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.LoginPage@2898ac89]" started-at="2025-03-16T15:22:16 IST" name="setup" finished-at="2025-03-16T15:22:26 IST" duration-ms="9907" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.LoginPage@6ff29830]" started-at="2025-03-16T16:19:34 IST" name="setup" finished-at="2025-03-16T16:19:45 IST" duration-ms="10922" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testlogin()[pri:0, instance:com.tests.LoginPage@2898ac89]" started-at="2025-03-16T15:22:26 IST" name="testlogin" finished-at="2025-03-16T15:22:45 IST" duration-ms="18557" status="PASS">
+        <test-method signature="testlogin()[pri:0, instance:com.tests.LoginPage@6ff29830]" started-at="2025-03-16T16:19:45 IST" name="testlogin" finished-at="2025-03-16T16:20:06 IST" duration-ms="20107" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.LoginPage@2898ac89]" started-at="2025-03-16T15:22:45 IST" name="tearDown" finished-at="2025-03-16T15:22:45 IST" duration-ms="217" status="PASS">
+        <test-method is-config="true" signature="closeUp()[pri:0, instance:com.tests.LoginPage@6ff29830]" started-at="2025-03-16T16:20:06 IST" name="closeUp" finished-at="2025-03-16T16:20:07 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.LoginPage@6ff29830]" started-at="2025-03-16T16:20:07 IST" name="tearDown" finished-at="2025-03-16T16:20:07 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
