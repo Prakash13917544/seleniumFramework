@@ -42,8 +42,8 @@ public class HomePage_Admin_SearchRecords extends BaseClass{
 	@AfterMethod
 	public void closeUp()
 	{
-		if(driver!=null)
-			driver.quit();
+			LogoutTest.logoutTest();
+		
 	}
 	
 }

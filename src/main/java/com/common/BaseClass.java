@@ -114,6 +114,7 @@ public class BaseClass {
     public void tearDown() {
         // Write the report
         extent.flush();
+        driver.quit();
     }
 
 }
