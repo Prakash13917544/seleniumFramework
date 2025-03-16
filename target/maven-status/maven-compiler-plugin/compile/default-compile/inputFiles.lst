@@ -1,2 +1,5 @@
 C:\Users\prakash.pampanagowda\eclipse-workspace\seleniumframework\src\main\java\com\common\BaseClass.java
-C:\Users\prakash.pampanagowda\eclipse-workspace\seleniumframework\src\main\java\com\utilities\PropertiesOperation.java
+C:\Users\prakash.pampanagowda\eclipse-workspace\seleniumframework\src\main\java\com\utilities\ConfigFileReader.java
+C:\Users\prakash.pampanagowda\eclipse-workspace\seleniumframework\src\main\java\com\utilities\AddScreenshot.java
+C:\Users\prakash.pampanagowda\eclipse-workspace\seleniumframework\src\main\java\com\utilities\ExcelReader.java
+C:\Users\prakash.pampanagowda\eclipse-workspace\seleniumframework\src\main\java\com\utilities\BrowserFactory.java

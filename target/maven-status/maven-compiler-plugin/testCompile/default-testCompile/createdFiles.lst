@@ -1,4 +1,4 @@
-com\tests\HomePage_Admin_SearchRecords.class
 com\pagesobjects\HomePageAdminSearchRecordsOjects.class
-com\pagesobjects\LoginPageObjects.class
 com\tests\LoginPage.class
+com\tests\HomePage_Admin_SearchRecords.class
+com\pagesobjects\LoginPageObjects.class

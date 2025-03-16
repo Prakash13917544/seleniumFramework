@@ -1,2 +1,5 @@
 com\common\BaseClass.class
-com\utilities\PropertiesOperation.class
+com\utilities\BrowserFactory.class
+com\utilities\ExcelReader.class
+com\utilities\AddScreenshot.class
+com\utilities\ConfigFileReader.class
