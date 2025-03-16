@@ -20,11 +20,11 @@
 
 	<dependencies>
 
-		<dependency>
+	<dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.10.0</version>
-</dependency>
+	</dependency>
 
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
@@ -37,7 +37,7 @@
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
-    <version>7.1.0</version>
+    <version>7.4.0</version>
     <scope>test</scope>
 </dependency>
 
